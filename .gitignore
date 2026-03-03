@@ -6,3 +6,9 @@ env/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+
+*.parquet
+*.csv
+/data/
+
+.ipynb_checkpoints/
